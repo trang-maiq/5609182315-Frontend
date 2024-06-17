@@ -1,0 +1,41 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "NewsletterSimpleStacked"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "NewsletterSimpleStacked"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Unleash Your Creativity with Yay",
+  "subtitle": "Empowering you to share your voice and inspire others through captivating blog posts"
+}
